@@ -23,6 +23,8 @@ Database: MongoDB is used as the database to store user profiles, job listings, 
 
 Server: Node.js serves as the server environment for the application, ensuring smooth communication between the frontend and backend.
 
+Deployment: The app is live on netlify. here is the link:-  https://jobseeker-upgrad.netlify.app
+
 Installation
 Clone the repository: git clone https://github.com/your-username/JobSeeker.git
 Navigate to the project directory: cd JobSeeker
